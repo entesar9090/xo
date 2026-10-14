@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+    background-image: url("https://ms.hsoubcdn.com/uploads/thumbnails/3677684/6759c1d5f12e2/Xo.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+
+.refresh-btn img{
+    position:absolute;
+    top:10px;
+    right:100px;
+    
+    width:30px;
+
+
+}
+
+
+.game{
+width: 300px;
+text-align: center;
+ font-size: x-large;
+color: azure;
+margin: auto;;
+margin-top:100px;
+}
+.title{
+    background-color:dimgray;
+    border-radius:10px;
+    padding: 10px 0;
+    margin: 10px 0;;
+    
+
+}
+span{
+    color:gold;
+    font-weight:600;
+    padding-right: 2px;;
+}
+.square{
+    width: 95px;
+    height: 80px;
+    background-color:sienna;
+    border:0.5px solid brown;
+
+    font-size: 50px;
+     float: left;
+        margin: 2px;;
+}
+.square:hover{
+    background-color:darkorange;
+    cursor: pointer;
+}
